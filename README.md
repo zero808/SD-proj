@@ -4,9 +4,9 @@ Grupo de SD 61 - Campus Alameda
 
 Duarte Barreira 64752 duarte.barreira@tecnico.ulisboa.pt
 
-Leo Valente 67030 leo.valente@tecnico.ulisboa.pt
+[Leo Valente](https://github.com/LeoVal) 67030 leo.valente@tecnico.ulisboa.pt
 
-João Feneja 73978 joao.feneja@tecnico.ulisboa.pt
+[João Feneja](https://github.com/joaofeneja) 73978 joao.feneja@tecnico.ulisboa.pt
 
 
 Repositório:
