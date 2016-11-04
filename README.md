@@ -2,7 +2,7 @@
 
 Grupo de SD 61 - Campus Alameda
 
-Duarte Barreira 64752 duarte.barreira@tecnico.ulisboa.pt
+[Duarte Barreira](https://github.com/zero808) 64752 duarte.barreira@tecnico.ulisboa.pt
 
 [Leo Valente](https://github.com/LeoVal) 67030 leo.valente@tecnico.ulisboa.pt
 
