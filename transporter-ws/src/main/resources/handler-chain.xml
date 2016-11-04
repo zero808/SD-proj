@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+	<handler-chain>
+		<!-- Signature Handler -->
+		<handler>
+			<handler-class>pt.upa.ws.handler.HeaderHandler</handler-class>
+		</handler>
+		<!-- Hacker Handler (For testing purposes) 
+		<handler>
+			<handler-class>pt.upa.ws.handler.HackerHandler</handler-class>
+		</handler>
+		-->
+		<!-- Logging Handler -->
+		<!--
+		<handler>
+			<handler-class>pt.upa.ws.handler.LoggingHandler</handler-class>
+		</handler>
+		-->
+	</handler-chain>
+</handler-chains>
